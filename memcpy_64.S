@@ -8,4 +8,3 @@ memcpy_erms:
     movq %rdx, %rcx
     rep movsb
     ret
-
